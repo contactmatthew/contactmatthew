@@ -17,8 +17,8 @@ I'm a passionate developer focused on building innovative web applications and t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contactmatthew&theme=merko&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&theme=merko&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
