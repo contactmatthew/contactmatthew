@@ -21,14 +21,8 @@ I'm a passionate developer focused on building innovative web applications and t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&layout=compact&langs_count=8&theme=merko"/>
 </div>
 
-### 🔥 Contribution Streak & Overall Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=contactmatthew&theme=merko&hide_border=true" alt="GitHub Streak - Shows Current Streak, Longest Streak, and Total Contributions" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&show_icons=true&line_height=24&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117&border_color=00ff00" alt="Overall Contributions" />
+  <img src="https://streak-stats.demolab.com/?user=contactmatthew&theme=merko" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,30 +71,12 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 
 ---
 
-## 📊 Contribution Stats
-
-<div align="center">
-  
-  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=contactmatthew&limit=5&theme=merko&combine_all_yearly_contributions=true)
-  
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mtthw28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/contactmatthew)
 
 ---
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=contribs,prs" alt="GitHub Activity" />
-  
-</div>
 
 ---
 
