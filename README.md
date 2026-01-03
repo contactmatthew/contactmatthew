@@ -48,7 +48,7 @@ I'm a passionate developer focused on building innovative web applications and t
 ## 📈 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=contactmatthew&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=contactmatthew&theme=matrix&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=0d1117&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
