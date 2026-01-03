@@ -17,7 +17,7 @@ I’m a 22-year-old passionate developer focused on building innovative web appl
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=contactmatthew&theme=merko" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=contactmatthew&theme=merko" alt="GitHub Streak" />
 </div>
 
 ---
