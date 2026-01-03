@@ -22,7 +22,7 @@ I'm a passionate developer focused on building innovative web applications and t
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=contactmatthew&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=contactmatthew&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -92,7 +92,7 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 
 <div align="center">
   
-  ![GitHub metrics](https://metrics.lecoq.io/contactmatthew?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
+  <img src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs" alt="GitHub Activity" />
   
 </div>
 
