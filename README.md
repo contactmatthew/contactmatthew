@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building innovative web applications and tools. This profile showcases my consistency and dedication to coding.
+I’m a 22-year-old passionate developer focused on building innovative web applications and tools. This profile shows my consistency and dedication to coding, even though I don’t have one programming language that I fully master yet. I understand how things work and keep learning by building.
 
 **Personal Project to Show My Consistency**
 
