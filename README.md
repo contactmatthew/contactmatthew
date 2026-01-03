@@ -17,12 +17,12 @@ I'm a passionate developer focused on building innovative web applications and t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&layout=compact&langs_count=8&theme=merko"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=contactmatthew&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=contactmatthew&theme=merko" alt="GitHub Streak" />
 </div>
 
 ---
@@ -30,7 +30,7 @@ I'm a passionate developer focused on building innovative web applications and t
 ## 🔥 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=contactmatthew&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=contactmatthew&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -53,7 +53,7 @@ I'm a passionate developer focused on building innovative web applications and t
 ## 📈 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=contactmatthew&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=contactmatthew&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 
 <div align="center">
   
-  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=contactmatthew&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=contactmatthew&limit=5&theme=merko&combine_all_yearly_contributions=true)
   
 </div>
 
@@ -92,14 +92,14 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs" alt="GitHub Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=contactmatthew&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=contribs,prs" alt="GitHub Activity" />
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=contactmatthew&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=contactmatthew&color=00ff00&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
