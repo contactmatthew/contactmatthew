@@ -14,12 +14,7 @@ I'm a passionate developer focused on building innovative web applications and t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contactmatthew&theme=merko&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactmatthew&theme=merko&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
+## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=contactmatthew&theme=merko" alt="GitHub Streak" />
