@@ -90,6 +90,6 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <b>Thanks for visiting my profile! 2026⭐</b>
 </div>
 
