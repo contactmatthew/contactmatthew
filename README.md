@@ -74,7 +74,7 @@ Matthew Write is a typing speed web app that helps users practice typing, measur
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me <3
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mtthw28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/contactmatthew)
