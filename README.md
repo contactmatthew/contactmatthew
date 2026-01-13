@@ -6,11 +6,11 @@ I’m a 22-year-old passionate developer focused on building innovative web appl
 
 **Personal Project to Show My Consistency**
 
-- 🔭 I'm currently working on various web development projects
-- 🌱 I'm always learning new technologies and improving my skills
-- 💬 Ask me about web development, JavaScript, and building user-friendly applications
+- 🔭 I'm currently working on various web development projects.
+- 🌱 I'm always learning new technologies and improving my skills.
+- 💬 Ask me about web development, JavaScript, and building user-friendly applications.
 - 📫 How to reach me: [Facebook](https://facebook.com/mtthw28)
-- ⚡ Fun fact: I love creating tools that solve real-world problems
+- ⚡ Fun fact: I love creating tools that solve real-world problems.
 
 ---
 
